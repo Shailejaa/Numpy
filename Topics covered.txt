@@ -1,0 +1,10 @@
+1)indexing - 1d, 2d, or 3d
+2).dtype
+3).ndim
+4).shape
+5).size
+6).zeros()
+7).ones()
+8).empty()
+9).arange()
+10).linspace()
