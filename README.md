@@ -5,7 +5,4 @@
 
 
 [Day 2](https://github.com/Shailejaa/Numpy/blob/main/Day%202)
-1. Topics Covered
-   -Topic
-     -Yes
 
