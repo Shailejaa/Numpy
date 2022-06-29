@@ -5,6 +5,7 @@
 
 
 [Day 2](https://github.com/Shailejaa/Numpy/blob/main/Day%202)
-[Day 2](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20Day%202.ipynb)
-
+1. Topics Covered
+   -Topic
+     -Yes
 
