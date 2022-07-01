@@ -1,0 +1,11 @@
+Today's topic:
+
+1)Summary statistics - 
+a).mean()
+b).min()
+c).max()
+d).std()
+e).var()
+
+2)Vectorized operation
+3)Broadcasting operation
