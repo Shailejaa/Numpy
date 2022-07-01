@@ -1,0 +1,11 @@
+1) Introduction
+2) Why Numpy
+3) Array Introduction
+4) Why Array
+5) Difference between Array and Python List
+6)ndarray
+7) Vector/1-D array.
+8)arange()
+9)reshape()
+10)3d array
+
