@@ -1,13 +1,34 @@
-# Numpy
-## A-z Numpy
-
-[Day 1](https://github.com/Shailejaa/Numpy/blob/main/Day%201%20Numpy.pptx) 
-
-
-[Day 2](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20Day%202.ipynb)
+# **`Learning - NUMPY LIBRARY`**
+#### **Coming from Non-IT background but having a dream of IT job made me _'CODE'_ and chase my dream.**
+#### Basically here am not just `Documenting My Learning` but with that I'm also learning, _'How to use Github', 'How to format syntax'_, etc. 
+> If you find any mistake or error, please do feel free to correct. I welcome all suggestions because 'All Coders once were beginners.'
 
 
-[Day 3](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20Day%203.ipynb)
 
-[Day 4](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20Day%204.ipynb)
+1. First Day:
+   - [Topics Covered](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20Day%201.txt)
+   
+   - [Day 1 : Code](https://github.com/Shailejaa/Numpy/blob/main/Day%201%20Numpy.pptx) 
+      
+ 2. Second Day:
+    - [Topics Covered](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20Day%202.txt)
+    
+    - [Day 2 : Code](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20Day%202.ipynb)
+
+3. Third Day:
+   - [Topics Covered](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20Day%203.txt)
+   
+   - [Day 3 : Code](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20Day%203.ipynb)
+   
+ 4. Fourth Day:
+    - [Topics Covered](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20Day%204.txt)
+    
+    - [Day 4 : Code](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20Day%204.ipynb)
+
+
+
+
+
+
+
 
