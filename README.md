@@ -9,3 +9,5 @@
 
 [Day 3](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20Day%203.ipynb)
 
+[Day 4](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20Day%204.ipynb)
+
