@@ -1,4 +1,4 @@
-# Following are the topics:
+Following are the topics:
 
 1)indexing - 1d, 2d, or 3d
 2).dtype
