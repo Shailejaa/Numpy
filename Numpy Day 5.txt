@@ -1,0 +1,19 @@
+Topics Covered -
+
+Numpy
+Why Numpy
+Array
+Why Array
+Types of an Array
+Creating 1D array
+type()
+Parameters of an array:
+dtype
+ndmin
+Attributes of an Array :
+shape
+itemsize
+dtype
+ndim
+nbytes
+
