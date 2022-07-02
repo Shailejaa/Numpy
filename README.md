@@ -25,7 +25,7 @@
     
     - [Day 4 : Code](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20Day%204.ipynb)
     
-    5. Fifth Day :raised_hand:
+    5. Fifth Day = Revision Day :raised_hand:
        - [Day 5 : Code](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20Saturday%20Revision.ipynb)
 
 
