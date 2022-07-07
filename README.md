@@ -30,6 +30,10 @@
        
     - [Day 5 : Code](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20Saturday%20Revision.ipynb)
 
+6. Sixth Day :paw_prints::
+   - [Topics](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20day%206.txt)
+   
+   - [Day 6 : Code](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20Day%206.ipynb)
 
 
 
