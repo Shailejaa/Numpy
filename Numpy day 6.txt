@@ -1,0 +1,5 @@
+Topics covered -
+
+1)Plotting 1D array
+2)plotting two 1D array and formatting
+3)3d plotting - pending.
