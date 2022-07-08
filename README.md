@@ -25,15 +25,18 @@
     
     - [Day 4 : Code](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20Day%204.ipynb)
     
- 5. Fifth Day = Revision Day :raised_hand:
+ 5. Fifth Day = Revision Day :herb::
     - [Revised Topics](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20Day%205.txt)
        
     - [Day 5 : Code](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20Saturday%20Revision.ipynb)
 
-6. Sixth Day :paw_prints::
+6. Sixth Day :art::
    - [Topics](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20day%206.txt)
    
    - [Day 6 : Code](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20Day%206.ipynb)
+   
+7. Seventh Day :raised_hand::v::
+   - [Day 7: Code](https://github.com/Shailejaa/Numpy/blob/main/Numpy%20Day%207.ipynb)
 
 
 
